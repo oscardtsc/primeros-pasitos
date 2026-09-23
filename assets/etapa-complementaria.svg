@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
+  <rect width="800" height="560" rx="40" fill="#FFF9F5"/>
+  
+  <circle cx="400" cy="280" r="215" fill="#F8E8D8"/>
+  <ellipse cx="400" cy="400" rx="245" ry="75" fill="#E4D7C7"/>
+  <circle cx="365" cy="190" r="85" fill="#F0C3A7"/>
+  <path d="M286 190c6-74 43-117 102-117 62 0 96 46 97 108-31-22-61-32-98-28-37 4-68 18-101 37z" fill="#5B4942"/>
+  <circle cx="342" cy="190" r="5" fill="#4E443E"/>
+  <circle cx="395" cy="190" r="5" fill="#4E443E"/>
+  <path d="M350 221c9 7 18 7 28 0" fill="none" stroke="#C27C7D" stroke-width="5" stroke-linecap="round"/>
+  <path d="M270 310h260v100H270z" rx="18" fill="#FFF7EF"/>
+  <rect x="300" y="335" width="68" height="45" rx="14" fill="#A8C38D"/>
+  <circle cx="430" cy="357" r="24" fill="#E5A65D"/>
+  <circle cx="480" cy="365" r="18" fill="#D98F98"/>
+  <rect x="180" y="385" width="440" height="22" rx="11" fill="#B8CBB8"/>
+  <path d="M155 155c-24-36-24-67-7-92 29 19 35 51 7 92z" fill="#A5BBA8"/>
+  <path d="M168 145c39-7 65 5 81 30-31 10-58 0-81-30z" fill="#A5BBA8"/>
+
+</svg>
